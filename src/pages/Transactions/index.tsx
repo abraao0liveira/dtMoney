@@ -31,7 +31,7 @@ export function Transactions() {
                 </PriceHighlight>
               </td>
               <td>Alimentação</td>
-              <td>16/06/2023</td>
+              <td>10/06/2023</td>
             </tr>
 
           </tbody>
